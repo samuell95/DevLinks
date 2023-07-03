@@ -20,7 +20,7 @@
     --bg-url: radial-gradient(circle, rgba(33,142,153,0.8995973389355743) 100%, rgba(238,174,202,1) 100%);;
     --stroke-color:rgba(0, 0, 0, 0.5);
     --surface-color: rgba(0, 0, 0, 0.05);
-    --surface-color-hover: rgba(0, 0, 0, 0.02);
+    --surface-color-hover: rgba(50, 50, 50, 0.2);
     --highlight-color: rgba(0, 0, 0, 0.1);
     --backgound-color: white;
     --switch-bg-url: url(./assets/assets/sun.svg);
